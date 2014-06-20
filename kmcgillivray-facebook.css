@@ -1,0 +1,37 @@
+#pagelet_navigation {
+  display: none;
+}
+#pageLogo {
+  display: none;
+}
+.hasSmurfbar #blueBarHolder #blueBar {
+  background-image: none;
+  background-color: white;
+  border-bottom: 0;
+}
+#pagelet_trending_tags_and_topics {
+  display: none;
+}
+.rightColumnWrapper {
+  opacity: .3;
+  transition: all .5s;
+}
+.rightColumnWrapper:hover {
+  opacity: 1;
+}
+._5vb_ {
+  background-color: #e7e7e7;
+}
+body._5vb_ #globalContainer {
+  width: 80%;
+}
+._585- {
+  -webkit-box-shadow: none;
+}
+.hasSmurfbar #blueBarHolder #blueBar:after {
+  background-image: none;
+}
+#pagelet_side_ads {
+  opacity: .3;
+}
+        
